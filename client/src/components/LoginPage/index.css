@@ -1,0 +1,48 @@
+
+.bg-cont{
+    display:flex;
+    flex-direction: column;
+    background-color: black;
+    height: 100vh;
+    background-size: cover;
+}
+.logo-cont{
+    padding: 15px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.second-div{
+display: flex;
+height: 100vh;
+background-size: cover;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
+
+.form-container{   
+    background-color: rgb(14, 22, 22);
+    padding: 25px;
+    border-color: white;
+    border-width: 1px;
+    border-radius: 10px;
+    border-style:solid;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: white;
+}
+.img-style{
+    height: 30px;
+    width: 200px;
+    align-self: flex-start;
+}
+.solid-line {
+    border: 0;
+    height: 1px;
+    background: white;
+    margin: 20px 0;
+}
+
